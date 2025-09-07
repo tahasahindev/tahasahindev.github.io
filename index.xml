@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Taha&#39;s Blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Taha&#39;s Blog</description>
+    <generator>Hugo -- 0.149.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Sep 2025 15:31:49 +0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neden Blog Yaziyorum</title>
+      <link>https://example.org/posts/neden-blog-yaziyorum/</link>
+      <pubDate>Sun, 07 Sep 2025 15:31:49 +0300</pubDate>
+      <guid>https://example.org/posts/neden-blog-yaziyorum/</guid>
+      <description>&lt;p&gt;Merhaba!
+Ben Taha. Bu benim ilk blog yazım.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
